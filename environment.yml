@@ -1,0 +1,13 @@
+name: arcgispro-py3-clone
+channels:
+  - defaults
+  - esri
+dependencies:
+  - python=3.7.9
+  - arcpy=2.7
+  - arcgispro=2.7
+  - numpy=1.19.2
+  - geopandas=0.8.1
+  
+
+prefix: C:\Users\Paul\anaconda3\envs\arcgispro-py3-clone
