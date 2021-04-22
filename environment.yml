@@ -1,4 +1,4 @@
-name: arcgispro-py3-clone
+name: LAS_env
 channels:
   - defaults
   - esri
@@ -10,4 +10,4 @@ dependencies:
   - geopandas=0.8.1
   
 
-prefix: C:\Users\Paul\anaconda3\envs\arcgispro-py3-clone
+prefix: C:\Users\Paul\anaconda3\envs\LAS_env
