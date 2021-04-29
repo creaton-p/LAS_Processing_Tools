@@ -9,6 +9,8 @@ dependencies:
   - numpy=1.19.2
   - geopandas=0.8.1
   - rasterio=1.1.0
+  - cartopy=0.18.0
+ 
   
 
 prefix: C:\Users\Paul\anaconda3\envs\LAS_env
